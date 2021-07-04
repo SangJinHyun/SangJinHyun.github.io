@@ -1,2 +1,2 @@
 # SangJinHyun.github.io
-Code hosting for my elementary website
+Code hosting for my website
