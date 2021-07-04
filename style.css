@@ -111,7 +111,7 @@ a{
 }
 @keyframes text_reveal{
     100% {
-		color: white;
+		color: black;
 	}
 }
 /*End Keyframe*/
